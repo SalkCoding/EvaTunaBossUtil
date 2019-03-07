@@ -1,0 +1,10 @@
+name: EvaTunaBossUtil
+version: 1.0.7
+main: net.evatunabossutil.salkcoding.main.Main
+author: Salk_Coding
+depend: [MythicMobs,Essentials,LangUtils]
+commands:
+  EvatunaBossUtil:
+    description: For administration
+    usage: /EvatunaBossUtil
+    aliases: [ebu,evatunabossutil]
